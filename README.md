@@ -1,0 +1,1 @@
+# icp7_bigdata_hadoop_lucene_solr
